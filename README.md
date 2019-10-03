@@ -1,0 +1,2 @@
+# MAGNATE
+Initial Project Startups
